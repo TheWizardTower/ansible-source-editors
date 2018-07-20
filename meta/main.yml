@@ -1,0 +1,20 @@
+galaxy_info:
+  author: Adam McCullough
+  description: Install the source editors that I use in my day-to-day work.
+  license: license (BSD)
+
+  min_ansible_version: 1.2
+
+  platforms:
+  - name: Fedora
+    versions:
+    - 26
+    - 27
+    - 28
+  - name: Debian
+    versions:
+    - squeeze
+    - stretch
+    - wheezy
+  galaxy_tags: []
+dependencies: []

@@ -1,0 +1,4 @@
+---
+editor_os_pkgs :
+  - vim
+  - emacs
